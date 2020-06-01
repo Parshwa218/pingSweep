@@ -11,7 +11,7 @@ You must have to known your IP Address.
 # Installation 
 
 ```
-git clone https://github.com/Parshwa218/pingSweep
+git clone https://github.com/Parshwa218/pingSweep.git
 ```
 ```
 cd pingSweep
