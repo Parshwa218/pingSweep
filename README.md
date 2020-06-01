@@ -35,7 +35,7 @@ Scanning completed in:  0:02:16.524723
 ```
 
 # Developed By
- Parshwa Bhavsar
+- Parshwa Bhavsar
 
 # Developer's Notice
  - Feedbacks are welcomed.
