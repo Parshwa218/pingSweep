@@ -8,6 +8,8 @@ You just have to input your IP & range and It will display all the live hosts in
 You have Python3 installed.
 You must have to known your IP Address.
 
+<img src="Capture.PNG">
+
 # Installation 
 
 ```
@@ -32,6 +34,12 @@ Enter the Last Number: 10
 Scanning completed in:  0:02:16.524723
 ```
 
+# Developed By
+ Parshwa Bhavsar
 
+# Developer's Notice
+ - Feedbacks are welcomed.
+ - Give suggestions for improvement.
+ 
  
  
